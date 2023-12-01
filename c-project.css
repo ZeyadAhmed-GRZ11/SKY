@@ -1,0 +1,22 @@
+body{
+    background-image: url("ert5.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* img{
+    width: 200px;
+    height: 200px;
+} */
+
+input{
+    text-align: center;
+}
+button{
+    text-align: center;
+    justify-content: center;
+}
+
+
+
